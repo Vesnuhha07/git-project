@@ -1,1 +1,1 @@
-"# git-project" 
+"# My Git Project - CONFLICT VERSION" 
