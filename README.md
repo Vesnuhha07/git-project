@@ -1,1 +1,1 @@
-"# My Git Project - MAIN VERSION" 
+# My Git Project - RESOLVED VERSION
