@@ -1,0 +1,1 @@
+"Security patch: fixed CVE-2024-1234" 
